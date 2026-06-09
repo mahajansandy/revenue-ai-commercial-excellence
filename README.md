@@ -51,17 +51,43 @@ I believe the next wave of enterprise transformation is not ERP, CRM, Cloud, or 
 
 ---
 
-## Current Work
+## Repository Structure
 
-* AI Commercial Excellence Framework
+This repository is organized around four themes:
+
+* Strategic Frameworks
+* Operating Systems
+* Functional AI Use Cases
+* Agentic Workflow Designs
+
+---
+
+## Current Research & Development
+
+### Strategic Frameworks
+
+* Revenue AI & Commercial Excellence
+
+### Operating Systems
+
+* Customer Success Operating System
 * Revenue Operating System
-* Revenue Intelligence & Predictability
+
+### AI Use Cases
+
+* Customer Success Intelligence
+* Revenue Operations Intelligence
+* Sales Intelligence
+
+### Agentic Workflows
+
+* Customer Health Agent
 * Executive Briefing Agent
-* Customer Success Agent
 * Revenue Operations Agent
+* Forecast Intelligence Agent
 
 ---
 
 **Sandeep Kumar**
 
-Commercial Transformation | Customer Success | Revenue Operations | AI-Enabled Commercial Excellence
+Commercial Transformation | Customer Success | Revenue Operations | Revenue AI | Commercial Excellence
